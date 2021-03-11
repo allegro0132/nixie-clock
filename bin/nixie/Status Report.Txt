@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [nixie.PrjPcb]
+   Generated File[polygon-nognd-RoundHoles.TXT]
+   Generated File[polygon-nognd-SlotHoles.TXT]
+   Generated File[polygon-nognd.LDP]
+   Generated File[polygon-nognd.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 23:20:09 On 2020/12/30

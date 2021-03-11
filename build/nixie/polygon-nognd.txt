@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\wangz\OneDrive\Project\nixie\build\nixie\polygon-nognd.PcbDoc
+Date         : 2020/12/31
+Time         : 10:28:38
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 200
+    Connections routed, 200
+    Connections remaining, 0
+count : 4

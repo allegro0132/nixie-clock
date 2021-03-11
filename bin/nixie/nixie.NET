@@ -1,0 +1,533 @@
+{COMPONENT PROTEL.PCB
+  {ENVIRONMENT PROTEL.SCH}
+  {DETAIL
+    {SUBCOMP
+      {I .PRT B
+        {CN
+        1 NetB_1
+        2 GND
+        3 V170
+        4 GND
+        }
+      }
+      {I BAT1220.PRT BT1
+        {CN
+        1 NetBT1_1
+        2 DGND
+        }
+      }
+      {I C0603.PRT C1
+        {CN
+        1 GND
+        2 V5
+        }
+      }
+      {I C0603.PRT C2
+        {CN
+        1 V3.3
+        2 DGND
+        }
+      }
+      {I C0603.PRT C3
+        {CN
+        1 DGND
+        2 NetBT1_1
+        }
+      }
+      {I C0603.PRT C4
+        {CN
+        1 GND
+        2 V3.3
+        }
+      }
+      {I LL-34.PRT D1
+        {CN
+        1 GND
+        2 NetD1_2
+        }
+      }
+      {I 0805.PRT L1
+        {CN
+        1 DGND
+        2 GND
+        }
+      }
+      {I IN14.PRT N1
+        {CN
+        1 NetN1_1
+        2 NetN1_2
+        3 N1_1
+        4 N1_2
+        5 N1_3
+        6 N1_4
+        7 N1_5
+        8 N1_6
+        9 N1_7
+       10 N1_8
+       11 N1_9
+       12 N1_0
+       13 NetN1_13
+        }
+      }
+      {I IN14.PRT N2
+        {CN
+        1 NetN2_1
+        2 NetN2_2
+        3 N2_1
+        4 N2_2
+        5 N2_3
+        6 N2_4
+        7 N2_5
+        8 N2_6
+        9 N2_7
+       10 N2_8
+       11 N2_9
+       12 N2_0
+       13 NetN2_13
+        }
+      }
+      {I IN14.PRT N3
+        {CN
+        1 NetN3_1
+        2 NetN3_2
+        3 N3_1
+        4 N3_2
+        5 N3_3
+        6 N3_4
+        7 N3_5
+        8 N3_6
+        9 N3_7
+       10 N3_8
+       11 N3_9
+       12 N3_0
+       13 NetN3_13
+        }
+      }
+      {I IN14.PRT N4
+        {CN
+        1 NetN4_1
+        2 NetN4_2
+        3 N4_1
+        4 N4_2
+        5 N4_3
+        6 N4_4
+        7 N4_5
+        8 N4_6
+        9 N4_7
+       10 N4_8
+       11 N4_9
+       12 N4_0
+       13 NetN4_13
+        }
+      }
+      {I IN14.PRT N5
+        {CN
+        1 NetN5_1
+        2 NetN5_2
+        3 N5_1
+        4 N5_2
+        5 N5_3
+        6 N5_4
+        7 N5_5
+        8 N5_6
+        9 N5_7
+       10 N5_8
+       11 N5_9
+       12 N5_0
+       13 NetN5_13
+        }
+      }
+      {I IN14.PRT N6
+        {CN
+        1 NetN6_1
+        2 NetN6_2
+        3 N6_1
+        4 N6_2
+        5 N6_3
+        6 N6_4
+        7 N6_5
+        8 N6_6
+        9 N6_7
+       10 N6_8
+       11 N6_9
+       12 N6_0
+       13 NetN6_13
+        }
+      }
+      {I HDR2X20.PRT P1
+        {CN
+        1 V3.3
+        2 V5
+        3 I2C_SDA
+        4 V5
+        5 I2C_SCL
+        6 GND
+        7 RP_DIN1
+        8 RP_DIN3
+        9 GND
+       10 NetP1_10
+       11 RP_DIN4
+       12 RP_CLK
+       13 RP_POL
+       14 GND
+       15 RP_Boost
+       16 NetP1_16
+       17 V3.3
+       18 NetP1_18
+       19 SPI_MOSI
+       20 GND
+       21 SPI_MISO
+       22 NetP1_22
+       23 SPI_SCLK
+       24 NetP1_24
+       25 GND
+       26 SPI_CE1
+       27 NetP1_27
+       28 NetP1_28
+       29 NetP1_29
+       30 GND
+       31 NetP1_31
+       32 RP_DIN2
+       33 RP_LE
+       34 GND
+       35 NetP1_35
+       36 NetP1_36
+       37 NetP1_37
+       38 NetP1_38
+       39 GND
+       40 NetP1_40
+        }
+      }
+      {I HDR1X6.PRT P2
+        {CN
+        1 V5
+        2 SPI_MOSI
+        3 SPI_MISO
+        4 SPI_SCLK
+        5 SPI_CE1
+        6 DGND
+        }
+      }
+      {I SOT95P250X110-6N.PRT Q1
+        {CN
+        1 Boost_switch
+        2 NetB_1
+        3 NetQ1_3
+        }
+      }
+      {I R0603.PRT R1
+        {CN
+        1 NetN1_1
+        2 V170
+        }
+      }
+      {I R0603.PRT R2
+        {CN
+        1 NetN2_1
+        2 V170
+        }
+      }
+      {I R0603.PRT R3
+        {CN
+        1 NetN3_1
+        2 V170
+        }
+      }
+      {I R0603.PRT R4
+        {CN
+        1 NetN4_1
+        2 V170
+        }
+      }
+      {I R0603.PRT R5
+        {CN
+        1 NetN5_1
+        2 V170
+        }
+      }
+      {I R0603.PRT R6
+        {CN
+        1 NetN6_1
+        2 V170
+        }
+      }
+      {I R0603.PRT R7
+        {CN
+        1 NetD1_2
+        2 V170
+        }
+      }
+      {I R0603.PRT R8
+        {CN
+        1 NetR8_1
+        2 GND
+        }
+      }
+      {I R0603.PRT R9
+        {CN
+        1 NetR9_1
+        2 GND
+        }
+      }
+      {I R0603.PRT R10
+        {CN
+        1 I2C_SDA
+        2 V3.3
+        }
+      }
+      {I R0603.PRT R11
+        {CN
+        1 \I\N\T\/SQW
+        2 V3.3
+        }
+      }
+      {I R0603.PRT R12
+        {CN
+        1 I2C_SCL
+        2 V3.3
+        }
+      }
+      {I R0603.PRT R13
+        {CN
+        1 NetR13_1
+        2 V3.3
+        }
+      }
+      {I R0603.PRT R14
+        {CN
+        1 HV_DIN1
+        2 V5
+        }
+      }
+      {I R0603.PRT R15
+        {CN
+        1 HV_DIN2
+        2 V5
+        }
+      }
+      {I R0603.PRT R16
+        {CN
+        1 HV_DIN3
+        2 V5
+        }
+      }
+      {I R0603.PRT R17
+        {CN
+        1 HV_DIN4
+        2 V5
+        }
+      }
+      {I R0603.PRT R18
+        {CN
+        1 NetR18_1
+        2 V3.3
+        }
+      }
+      {I R0603.PRT R19
+        {CN
+        1 HV_LE
+        2 V5
+        }
+      }
+      {I R0603.PRT R20
+        {CN
+        1 HV_CLK
+        2 V5
+        }
+      }
+      {I R0603.PRT R21
+        {CN
+        1 HV_POL
+        2 V5
+        }
+      }
+      {I R0603.PRT R22
+        {CN
+        1 Boost_switch
+        2 V5
+        }
+      }
+      {I .PRT S1
+        {CN
+        1 NetS1_1
+        2 NetS1_2
+        3 NetS1_3
+        4 NetQ1_3
+        5 V5
+        6 NetS1_6
+        }
+      }
+      {I HV57708PG.PRT U1
+        {CN
+        1 N3_4
+        2 N3_3
+        3 N3_2
+        4 N3_1
+        5 N2_0
+        6 N2_9
+        7 N2_8
+        8 N2_7
+        9 N2_6
+       10 N2_5
+       11 N2_4
+       12 N2_3
+       13 N2_2
+       14 N2_1
+       15 N1_0
+       16 N1_9
+       17 N1_8
+       18 N1_7
+       19 N1_6
+       20 N1_5
+       21 N1_4
+       22 N1_3
+       23 N1_2
+       24 N1_1
+       25 HV_DIN1
+       26 HV_DIN2
+       27 HV_DIN3
+       28 HV_DIN4
+       29 HV_LE
+       30 HV_CLK
+       31 V5
+       32 V5
+       33 V5
+       34 GND
+       35 HV_POL
+       36 NetU1_36
+       37 NetU1_37
+       38 NetU1_38
+       39 NetU1_39
+       40 NetD1_2
+       41 NetU1_41
+       42 NetU1_42
+       43 NetU1_43
+       44 NetU1_44
+       45 N6_0
+       46 N6_9
+       47 N6_8
+       48 N6_7
+       49 N6_6
+       50 N6_5
+       51 N6_4
+       52 N6_3
+       53 N6_2
+       54 N6_1
+       55 N5_0
+       56 N5_9
+       57 N5_8
+       58 N5_7
+       59 N5_6
+       60 N5_5
+       61 N5_4
+       62 N5_3
+       63 N5_2
+       64 N5_1
+       65 N4_0
+       66 N4_9
+       67 N4_8
+       68 N4_7
+       69 N4_6
+       70 N4_5
+       71 N4_4
+       72 N4_3
+       73 N4_2
+       74 N4_1
+       75 N3_0
+       76 N3_9
+       77 N3_8
+       78 N3_7
+       79 N3_6
+       80 N3_5
+        }
+      }
+      {I SOP16_75MM.PRT U2
+        {CN
+        1 NetU2_1
+        2 V3.3
+        3 \I\N\T\/SQW
+        4 NetU2_4
+        5 DGND
+        6 DGND
+        7 DGND
+        8 DGND
+        9 DGND
+       10 DGND
+       11 DGND
+       12 DGND
+       13 DGND
+       14 NetBT1_1
+       15 I2C_SDA
+       16 I2C_SCL
+        }
+      }
+      {I SO16.PRT U3
+        {CN
+        1 RP_DIN1
+        2 NetR13_1
+        3 RP_DIN2
+        4 NetR13_1
+        5 RP_DIN3
+        6 NetR13_1
+        7 RP_DIN4
+        8 NetR13_1
+        9 GND
+       10 HV_DIN4
+       11 GND
+       12 HV_DIN3
+       13 GND
+       14 HV_DIN2
+       15 GND
+       16 HV_DIN1
+        }
+      }
+      {I SO16.PRT U4
+        {CN
+        1 RP_LE
+        2 NetR18_1
+        3 RP_CLK
+        4 NetR18_1
+        5 RP_POL
+        6 NetR18_1
+        7 RP_Boost
+        8 NetR18_1
+        9 GND
+       10 Boost_switch
+       11 GND
+       12 HV_POL
+       13 GND
+       14 HV_CLK
+       15 GND
+       16 HV_LE
+        }
+      }
+      {I SHT3x-x-P.PRT U5
+        {CN
+        1 I2C_SDA
+        2 GND
+        3 NetU5_3
+        4 I2C_SCL
+        5 V3.3
+        6 NetU5_6
+        7 GND
+        8 GND
+        9 GND
+        }
+      }
+      {I USB-TYPE-C-SMD6.PRT USB1
+        {CN
+        0 NetUSB1_0
+        0 NetUSB1_0
+        0 NetUSB1_0
+        0 NetUSB1_0
+        1 GND
+        2 V5
+        3 NetR9_1
+        4 NetR8_1
+        5 V5
+        6 GND
+        }
+      }
+    }
+  }
+}

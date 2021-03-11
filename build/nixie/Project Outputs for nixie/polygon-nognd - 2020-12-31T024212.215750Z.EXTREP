@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: polygon-nognd.GBR   2020/12/31  10:13:06
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Top Component Center                    
+.GM3                Top Courtyard                           
+.GM4                Top 3D Body                             
+.GM11               Top Assembly                            
+.GM13               Mechanical 13                           
+.GM14               Top Component Outline                   
+.GM15               Mechanical 15                           
+.GM16               Mechanical 16                           
+.GM31               Bottom Assembly                         
+.GM36               Bottom Component Center                 
+.GM35               Bottom Courtyard                        
+.GM34               Bottom Component Outline                
+.GM33               Bottom 3D Body                          
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+------------------------------------------------------------------------------------------
